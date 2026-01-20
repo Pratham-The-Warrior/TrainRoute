@@ -1,3 +1,5 @@
+Tentative Project Structure
+```
 train_route_app/
 │
 ├── train_engine/                  # C++ routing engine
@@ -38,3 +40,4 @@ train_route_app/
 │           └── engineClient.js   # Calls backend API
 │
 └── README.md
+```
