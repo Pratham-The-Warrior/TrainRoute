@@ -202,4 +202,15 @@ src/
 └── main.cpp
 ```
 
+```
+Frontend (React)
+        ↓
+Backend (Node.js API)
+        ↓
+C++ Train Engine
+        ↓
+JSON train data (files)
+
+```
+
 This engine models Indian Railways as a **time-dependent graph** and applies a constrained, time-aware Dijkstra algorithm to efficiently compute optimal routes under real-world railway constraints.
