@@ -191,17 +191,6 @@ Even if a train initially moves away from the destination, it is retained in the
 
 ## ✅ Summary
 
-## Project Structure
-
-```
-src/
-├── parser.cpp
-├── graph.cpp
-├── dijkstra.cpp
-├── constraints.cpp
-└── main.cpp
-```
-
 ```
 Frontend (React)
         ↓
